@@ -33,3 +33,8 @@ git config --global user.email ваша почта@example.com
 git log - Журнал коммитов ( с краткой информацией и их номером)
 git chekcout - Используется для перемещения между коммитами. 
 ```
+
+# 6. Полезная ссылка.
+
+https://gb.ru/posts/soveti-pro-git
+
