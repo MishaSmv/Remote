@@ -68,4 +68,7 @@ git branch branch_name
 git merge branch_name
 ```
 При возникновении конфликта, VSC помогает пользователю и предоставляет на выбор несколько вариантов решения данного конфликта.  
- 
+ 1. Accept Current Change - применение текущих изменений.
+ 2. Accept Incomming Change - применение изменений входящих изменений.
+ 3. Accept Both Changes - приминение изменений из двух веток.
+ 4. Comparison of changes - сравнение изменений двух веток.
