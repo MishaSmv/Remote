@@ -100,4 +100,3 @@ git branch -D branch_name
 ```
 git remote add <имя репозитория> <url-адрес репозитория в сети>
 ```
-
